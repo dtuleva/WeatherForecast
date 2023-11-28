@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/807476950858686053/5111aa3a05f84038b31dcebbad705ebb/artifacts
+deleted_time: 1700995277756
+end_time: 1700985126269
+entry_point_name: ''
+experiment_id: '807476950858686053'
+lifecycle_stage: deleted
+run_id: 5111aa3a05f84038b31dcebbad705ebb
+run_name: learned-dolphin-700
+run_uuid: 5111aa3a05f84038b31dcebbad705ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700985122996
+status: 4
+tags: []
+user_id: diana

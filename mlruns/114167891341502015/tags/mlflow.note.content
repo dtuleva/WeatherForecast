@@ -1,0 +1,2 @@
+Ridge with target next_temp(shift -2)
+Unstable train test split - missing dummy columns in validation set.

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/0/40c9ed424a40406cb6a307aaabe7ec7f/artifacts
+end_time: 1700991274409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40c9ed424a40406cb6a307aaabe7ec7f
+run_name: receptive-grouse-574
+run_uuid: 40c9ed424a40406cb6a307aaabe7ec7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700991267768
+status: 3
+tags: []
+user_id: diana

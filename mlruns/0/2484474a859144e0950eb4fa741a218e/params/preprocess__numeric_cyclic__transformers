@@ -1,0 +1,3 @@
+[('winddir_sin', FunctionTransformer(feature_names_out=<function sin_name_out at 0x000001D4FC10ECA0>,
+                    func=<function sin_transformer.<locals>.<lambda> at 0x000001D48051F1A0>), <sklearn.compose._column_transformer.make_column_selector object at 0x000001D487591A50>), ('winddir_cos', FunctionTransformer(feature_names_out=<function cos_name_out at 0x000001D4FC10F240>,
+                    func=<function cos_transformer.<locals>.<lambda> at 0x000001D48051DD00>), <sklearn.compose...

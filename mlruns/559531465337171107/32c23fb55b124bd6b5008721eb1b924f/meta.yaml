@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/559531465337171107/32c23fb55b124bd6b5008721eb1b924f/artifacts
+end_time: 1701001618221
+entry_point_name: ''
+experiment_id: '559531465337171107'
+lifecycle_stage: active
+run_id: 32c23fb55b124bd6b5008721eb1b924f
+run_name: fold_2
+run_uuid: 32c23fb55b124bd6b5008721eb1b924f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701001618081
+status: 3
+tags: []
+user_id: diana

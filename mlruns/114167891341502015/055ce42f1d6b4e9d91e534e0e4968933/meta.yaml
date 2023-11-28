@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/114167891341502015/055ce42f1d6b4e9d91e534e0e4968933/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '114167891341502015'
+lifecycle_stage: active
+run_id: 055ce42f1d6b4e9d91e534e0e4968933
+run_name: grandiose-wasp-42
+run_uuid: 055ce42f1d6b4e9d91e534e0e4968933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699111898949
+status: 1
+tags: []
+user_id: diana

@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/807476950858686053/fea42a024a3a4124beb4f30bbf100e22/artifacts
+deleted_time: 1700995277756
+end_time: 1700985030996
+entry_point_name: ''
+experiment_id: '807476950858686053'
+lifecycle_stage: deleted
+run_id: fea42a024a3a4124beb4f30bbf100e22
+run_name: persistent-hawk-663
+run_uuid: fea42a024a3a4124beb4f30bbf100e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700985030003
+status: 4
+tags: []
+user_id: diana

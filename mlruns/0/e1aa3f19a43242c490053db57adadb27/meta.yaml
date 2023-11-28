@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/0/e1aa3f19a43242c490053db57adadb27/artifacts
+end_time: 1700991232082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1aa3f19a43242c490053db57adadb27
+run_name: stylish-sow-34
+run_uuid: e1aa3f19a43242c490053db57adadb27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700991219539
+status: 3
+tags: []
+user_id: diana

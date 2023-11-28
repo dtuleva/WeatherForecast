@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/114167891341502015/e685522f05bf4cacb88c20666902f234/artifacts
+end_time: 1699171930680
+entry_point_name: ''
+experiment_id: '114167891341502015'
+lifecycle_stage: active
+run_id: e685522f05bf4cacb88c20666902f234
+run_name: intelligent-cow-556
+run_uuid: e685522f05bf4cacb88c20666902f234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699164970884
+status: 3
+tags: []
+user_id: diana

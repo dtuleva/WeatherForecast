@@ -1,0 +1,2 @@
+Pipeline(steps=[('impute', SimpleImputer(fill_value=0, strategy='constant')),
+                ('log_transform', FunctionTransformer(func=<ufunc 'log1p'>))])

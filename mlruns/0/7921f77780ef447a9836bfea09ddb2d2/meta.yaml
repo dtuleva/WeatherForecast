@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/0/7921f77780ef447a9836bfea09ddb2d2/artifacts
+end_time: 1699522615051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7921f77780ef447a9836bfea09ddb2d2
+run_name: classy-hare-238
+run_uuid: 7921f77780ef447a9836bfea09ddb2d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699522156693
+status: 3
+tags: []
+user_id: diana

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/0/2484474a859144e0950eb4fa741a218e/artifacts
+end_time: 1700991246003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2484474a859144e0950eb4fa741a218e
+run_name: illustrious-dog-196
+run_uuid: 2484474a859144e0950eb4fa741a218e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700991239403
+status: 3
+tags: []
+user_id: diana

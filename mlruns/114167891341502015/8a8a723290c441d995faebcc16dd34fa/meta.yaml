@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/114167891341502015/8a8a723290c441d995faebcc16dd34fa/artifacts
+end_time: 1699123230563
+entry_point_name: ''
+experiment_id: '114167891341502015'
+lifecycle_stage: active
+run_id: 8a8a723290c441d995faebcc16dd34fa
+run_name: silent-snail-997
+run_uuid: 8a8a723290c441d995faebcc16dd34fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699123218844
+status: 3
+tags: []
+user_id: diana

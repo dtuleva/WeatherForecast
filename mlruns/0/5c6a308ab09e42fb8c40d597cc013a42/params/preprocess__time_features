@@ -1,0 +1,7 @@
+ColumnTransformer(transformers=[('month_categorical',
+                                 OneHotEncoder(handle_unknown='ignore',
+                                               sparse_output=False),
+                                 ['dt_month']),
+                                ('day_sin',
+                                 FunctionTransformer(feature_names_out=<function sin_name_out at 0x000001D4FC10ECA0>,
+                                                     func=<function sin_transformer.<locals>...

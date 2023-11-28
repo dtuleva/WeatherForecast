@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/0/bd75439390b3473ea0a73ed60836edd5/artifacts
+end_time: 1700744895175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd75439390b3473ea0a73ed60836edd5
+run_name: salty-robin-561
+run_uuid: bd75439390b3473ea0a73ed60836edd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700743044390
+status: 3
+tags: []
+user_id: diana
