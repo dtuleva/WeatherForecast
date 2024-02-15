@@ -1,6 +1,0 @@
-!!! from dimentionality reduction video beggining:
- - pickle at least the last model and send togather with the .ipynb
-
- - dvc - for data
-
- - mlflow runs dir - include in final zip
