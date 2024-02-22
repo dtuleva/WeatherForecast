@@ -1,6 +1,0 @@
-[('preprocess', ColumnTransformer(transformers=[('time_features',
-                                 ColumnTransformer(transformers=[('month_categorical',
-                                                                  OneHotEncoder(handle_unknown='ignore',
-                                                                                sparse_output=False),
-                                                                  ['dt_month']),
-                                                        ...

@@ -1,7 +1,0 @@
-digest: bcdaf2d7
-name: dataset
-profile: '{"num_rows": 89, "num_elements": 21182}'
-schema: null
-source: '{"tags": {"mlflow.user": "diana", "mlflow.source.name": "C:\\Users\\diana\\anaconda3\\envs\\mlflowenv\\Lib\\site-packages\\ipykernel_launcher.py",
-  "mlflow.source.type": "LOCAL"}}'
-source_type: code

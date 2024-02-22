@@ -1,2 +1,0 @@
-Pipeline(steps=[('impute', SimpleImputer(fill_value=0, strategy='constant')),
-                ('scale', MinMaxScaler())])

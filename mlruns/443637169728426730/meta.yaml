@@ -1,6 +1,0 @@
-artifact_location: file:///D:/backup_dec_22/SoftUni/AI2023/WeatherForecast/mlruns/443637169728426730
-creation_time: 1701001920911
-experiment_id: '443637169728426730'
-last_update_time: 1701001920911
-lifecycle_stage: active
-name: svm_rbf_010_134_features_cloudcover
